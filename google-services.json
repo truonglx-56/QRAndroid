@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "571478794756",
+    "firebase_url": "https://qr-bar-reader.firebaseio.com",
+    "project_id": "qr-bar-reader",
+    "storage_bucket": "qr-bar-reader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571478794756:android:a42fba0ca29ebdba",
+        "android_client_info": {
+          "package_name": "com.kodeguy.qrbarreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "571478794756-1h015m1qfjou7ff4qcn7muo66a1t3u1u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUnv590vmub0WoX79bBNHekiCikuqSCKU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
